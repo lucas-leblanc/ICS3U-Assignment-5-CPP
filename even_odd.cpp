@@ -38,7 +38,7 @@ int main() {
         std::cout << "The sum of all odd numbers is = "
                   << odd << "." << std::endl;
     } catch (std::invalid_argument) {
-        std::cout << "Oops invalid input, try again." << std::endl;
+        std::cout << "invalid input, try again." << std::endl;
     }
     std::cout << "\nDone." << std::endl;
 }
