@@ -1,7 +1,7 @@
 // Copyright (c) 2019 St. Mother Teresa HS All rights reserved.
 //
-// Created by: Seti Ngabo
-// Created on: Sept 2021
+// Created by: Lucas LeBlanc
+// Created on: Nov 2022
 // This program uses for loop
 
 #include <iostream>
