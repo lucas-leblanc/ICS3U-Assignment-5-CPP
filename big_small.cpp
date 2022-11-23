@@ -1,7 +1,7 @@
 // Copyright (c) 2022 Lucas LeBlanc
 //
 // Created by: Lucas LeBlanc
-// Created on: Oct 2022
+// Created on: Nov 2022
 
 #include <iostream>
 using namespace std;
@@ -22,7 +22,6 @@ int main() {
         if (min > arr[i])
             min = arr[i];
     }
-    cout << "Largest integer : " << max;
-    cout << "Smallest integer : " << min; 
-
+    cout <<  " Largest integer : " << max;
+    cout <<  " Smallest integer : " << min;
 }
